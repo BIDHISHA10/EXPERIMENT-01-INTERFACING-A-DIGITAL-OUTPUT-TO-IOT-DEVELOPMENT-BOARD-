@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 13-02-2024
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: GOGINENI BIDHISHA
+###  ROLL NO :212223040048
+###  DEPARTMENT: CSE
 
 
 
@@ -90,8 +90,10 @@ The main features of LPC2148 include the following.
 
 
 ## Output  :
- 
- 
+ ![WhatsApp Image 2024-02-22 at 14 13 24_a1400985](https://github.com/vasanthkumarch/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/152273292/8ccbbebf-f8e5-4bd4-9d89-04d2dd243a29)
+
+ ![Uploading WhatsApp Image 2024-02-22 at 14.17.51_1e100829.jpg…]()
+
  
  
 ## Result :
