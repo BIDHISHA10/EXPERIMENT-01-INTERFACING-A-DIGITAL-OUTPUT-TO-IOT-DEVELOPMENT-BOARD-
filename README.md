@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 13-02-2024
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: GOGINENI BIDHISHA
+###  ROLL NO :212223040048
+###  DEPARTMENT: CSE
 
 
 
@@ -90,9 +90,11 @@ The main features of LPC2148 include the following.
 
 
 ## Output  :
+ ![WhatsApp Image 2024-02-22 at 14 13 24_47eb147f](https://github.com/vasanthkumarch/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/152273292/5010ca7d-9c3d-462a-9c50-f0b757108638)
+
  
- 
- 
+ ![WhatsApp Image 2024-02-22 at 14 17 51_67961de0](https://github.com/vasanthkumarch/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/152273292/91d435c5-afef-453f-8db6-b532a8930f0c)
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
